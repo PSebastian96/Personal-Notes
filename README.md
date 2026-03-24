@@ -1,3 +1,5 @@
+# VSCode & Linux Notes
+
 ## VSCode Shortcuts:
 
 ### Productivity
